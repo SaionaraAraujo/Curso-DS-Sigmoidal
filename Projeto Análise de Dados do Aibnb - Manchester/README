@@ -1,0 +1,18 @@
+Descrição :
+Neste projeto será desenvolvida uma análise exploratória de dados do Airbnb, feita como aplicação de aprendizagem do módulod de Análise de Dados e Pandas. Nesse
+trabalho fizemos:
+
+🎯  Importar dados 
+🎯  Análise estatística
+🎯  Identificação e tratamento de outlier
+🎯  Identificação e tratamento de valores ausentes
+🎯  Limpeza de dados
+🎯  Comparações com os dados antes da limpeza e depois
+🎯  Conclusões
+
+
+Ferramentas utilizadas:
+Python - Pandas ✅
+Google Colab ✅
+
+Link para os dados: http://data.insideairbnb.com/united-kingdom/england/greater-manchester/2021-12-23/visualisations/listings.csv"
